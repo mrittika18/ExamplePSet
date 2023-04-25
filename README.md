@@ -5,7 +5,7 @@ My project looks at the relationship between these things and those other things
 
 Files for the project: 
 - 'my data.csv' replication data
--'slidescript.Rmd' code for creating the slides
--'index.html' with the output
+- 'slidescript.Rmd' code for creating the slides
+- 'index.html' with the output
 
 See the slides at URL.
